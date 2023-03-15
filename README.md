@@ -6,7 +6,7 @@ Repo for showcasing the DevOps and Cloud technical capabilities <br>
 2) <b>Automation/Build Server:</b> Jenkins
 3) <b>Cloud Provider Infra Setup:</b> AWS / Azure / GCP
 4) <b>Operational Orchestration Software:</b> Rundeck
-5) <b>Application Software:</b> Java based application
+5) <b>Application Software:</b> Python and Flask based
 6) <b>Monitoring Software:</b> Grafana
 7) <b>Log Analytics Software:</b> Sumo Logic
 8) <b>IaC Software:</b> Terraform
